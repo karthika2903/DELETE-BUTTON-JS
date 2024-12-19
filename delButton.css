@@ -1,0 +1,28 @@
+.redbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0px;
+
+}
+
+.green {
+    background-color: green;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+
+.green:hover{
+    background-color: rgb(81, 219, 81);
+}
+
+.blu {
+
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+
+}
